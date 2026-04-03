@@ -92,16 +92,6 @@ I care deeply about:
 
 ---
 
-## ⚫ Writing & Case Studies
-
-(coming soon)
-
-* Designing reliable AI workflows
-* Lessons from healthcare systems
-* Scaling distributed ML pipelines
-
----
-
 ## ⚫ Contact
 
 * LinkedIn: https://www.linkedin.com/in/david-chang-o
