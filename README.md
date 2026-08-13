@@ -1,25 +1,27 @@
-# Brandon Wong
+`Edward Smith`
 
-Senior Software Engineer • ex-Google • Startup Builder
+Senior AI Engineer • FinTech Engineer • ex-Google • Founding Engineer
 
-Brandon is a true startup engineer with 12+ years of experience building scalable AI platforms, cloud infrastructure, and high-growth marketplace products at Google and venture-backed startups.
+Edward is a startup-minded engineer with 10+ years of experience building AI agents, payment infrastructure, and large-scale financial systems at Google, Brex, Ansa, and Basis.
 
-* Built AI-powered systems that reduced counterfeit listings by **27%**
-* Optimized AI model execution by up to **22x faster**
-* Developed backend infrastructure supporting **$800M+** in luxury inventory
-* Built semantic search systems across **20,000+** products
-* Helped scale products from **Seed to Series A**
+* Built production **AI agents and RAG systems** for tax, audit, and accounting workflows
+* Built payment infrastructure processing **millions of card transactions**
+* Helped build **wallet, ledger, payment, and incentive systems** as a Founding Engineer at Ansa
+* Built financial systems across **Google Ads Billing and Brex Spend Management**
+* Took products from early ideas through **architecture, development, deployment, and production**
+* Worked across everything from **Google-scale systems to small, fast-moving startup teams**
 
-He likes fast-moving startup environments, building products from zero to production, and solving complex engineering problems with small teams.
+He likes early-stage environments where engineers have real ownership, work closely with founders, and turn ambitious ideas into products customers can actually use.
 
 He's good at:
 
-* AI Integration
+* AI Agents & LLM Applications
+* FinTech & Payment Systems
 * Full-Stack Engineering
-* Scalable Architecture
-* Workflow Automation
-* Cloud Infrastructure
-* Product Engineering
+* Distributed Systems
+* RAG & AI Automation
+* Scalable Backend Architecture
+* Startup Product Engineering
 * Rapid MVP Development
 
 ### ⚙️ Tech Stack
